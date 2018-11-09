@@ -1,10 +1,10 @@
 (librepcb_library f71c3500-2399-4d74-945e-d6580e432c0d
  (name "Maxim")
- (description "Integrated Circuits. Inofficial.")
+ (description "Integrated circuits (inofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1")
  (created 2018-11-09T19:13:27Z)
  (deprecated false)
- (url "https://github.com/LibrePCB-Libraries/Maxim.lplib/")
+ (url "https://github.com/LibrePCB-Libraries/Maxim.lplib")
 )
