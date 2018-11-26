@@ -2,6 +2,7 @@
  (name "Maxim")
  (description "Integrated circuits (inofficial).")
  (keywords "")
+ (keywords "max,maxim")
  (author "LibrePCB")
  (version "0.1")
  (created 2018-11-09T19:13:27Z)
