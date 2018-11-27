@@ -8,7 +8,7 @@
  (deprecated false)
  (category cda9162b-fa94-4b99-abe0-00fc02c6f5c1)
  (schematic_only false)
- (default_value "{{PARTNUMBER or DEVICE}}")
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
  (prefix "U")
  (signal 3e9f34ad-8d24-42f1-93a0-7882ba003cda (name "SHDN") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
