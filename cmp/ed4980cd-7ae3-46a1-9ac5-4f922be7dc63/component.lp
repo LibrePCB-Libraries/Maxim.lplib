@@ -10,7 +10,7 @@
  (schematic_only false)
  (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
  (prefix "U")
- (signal 3e9f34ad-8d24-42f1-93a0-7882ba003cda (name "SHDN") (role passive)
+ (signal 3e9f34ad-8d24-42f1-93a0-7882ba003cda (name "/SHDN") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
  (signal db45844b-546c-4566-a428-5bbcfd0bfbf2 (name "PGND") (role passive)
