@@ -10,7 +10,7 @@
  (pin d99aa9a7-16be-4d0a-9d97-af03fd40c877 (name "VCC")
   (position -10.16 7.62) (rotation 0.0) (length 2.54)
  )
- (pin 84258809-e028-483b-a742-2bf55e26c4a1 (name "SHDN")
+ (pin 84258809-e028-483b-a742-2bf55e26c4a1 (name "/SHDN")
   (position -10.16 2.54) (rotation 0.0) (length 2.54)
  )
  (pin 67577041-1a5e-410a-b8e8-c8ead4adbcf2 (name "REF")
