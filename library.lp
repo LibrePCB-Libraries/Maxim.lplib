@@ -7,4 +7,5 @@
  (created 2018-11-09T19:13:27Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Maxim.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
