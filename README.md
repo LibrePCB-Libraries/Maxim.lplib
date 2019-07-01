@@ -1,6 +1,6 @@
 # Maxim
 
-Integrated circuits by Maxim Integrated. Inofficial.
+Integrated circuits by Maxim Integrated. Unofficial.
 
 This is a [LibrePCB](https://librepcb.org) library!
 
