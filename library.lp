@@ -1,5 +1,5 @@
 (librepcb_library f71c3500-2399-4d74-945e-d6580e432c0d
- (name "Maxim")
+ (name "Maxim Integrated")
  (description "Integrated circuits (unofficial).")
  (keywords "max,maxim")
  (author "LibrePCB")
