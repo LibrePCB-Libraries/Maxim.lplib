@@ -3,7 +3,7 @@
  (description "Integrated circuits (unofficial).")
  (keywords "max,maxim")
  (author "LibrePCB")
- (version "0.1.1")
+ (version "0.1.2")
  (created 2018-11-09T19:13:27Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Maxim.lplib")
